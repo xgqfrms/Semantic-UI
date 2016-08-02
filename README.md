@@ -6,7 +6,7 @@
 
 [![ProjectTalk Messageboard](http://www.projecttalk.io/images/gh_badge-3e578a9f437f841de7446bab9a49d103.svg?vsn=d)](http://www.projecttalk.io/boards/Semantic-Org%2FSemantic-UI?utm_campaign=gh-badge&utm_medium=badge&utm_source=github)
 
-Semantic is a UI framework designed for theming.
+语义是一个为主题而设计的UI框架设计。
 
 Key Features
 * 50+ UI elements
